@@ -51,3 +51,31 @@ console.log(b); // 2
 const DAYS_IN_A_WEKK = 7;
 const MY_NAME = "Nathan";
 ```
+
+## Atividades práticas
+
+### Atividade 1
+
+Verifique, de duas maneiras diferentes entre si, se uma String é um palíndromo.
+
+*Palíndromo: frase ou palavra que se pode ler, indiferentemente, da esquerda para direita ou vice-versa (Ex: raiar, ama, ovo, radar).*
+
+[➡ Exercício palindromo.js](https://github.com/CarvalhoNathan/variaveis-tipos/blob/main/arrayPares.js)
+
+### Atividade 2
+
+Troque todos os elementos pares e diferentes de zero de um array pelo número 0. Se o array for vazio, retorne -1.
+
+Exemplo:
+
+```js
+Input -> [1, 3, 4, 6, 80, 33, 23, 90]
+Output -> [1, 3, 0, 0, 0, 33, 23, 0]
+```
+
+```js
+Input -> []
+Output -> -1
+```
+
+[➡ Exercício arrayPares.js](https://github.com/CarvalhoNathan/variaveis-tipos/blob/main/arrayPares.js)
