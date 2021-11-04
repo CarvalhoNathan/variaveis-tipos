@@ -1,5 +1,5 @@
-
-# Variáveis e Tipos 📋
+# Minhas anotações sobre o curso Variáveis e Tipos 📋
+#### Curso feito na DIO ([Digital Innovation One](https://digitalinnovation.one/)):
 
 ### Atribuição de Valores - Aula 1
 
