@@ -1,7 +1,6 @@
-# Minhas anotações sobre o curso Variáveis e Tipos 📋
-#### Curso feito na DIO ([Digital Innovation One](https://digitalinnovation.one/)):
+# Minhas anotações sobre o curso ```Variáveis e Tipos``` 📋
 
-### Atribuição de Valores - Aula 1
+## Aula 1 - Atribuição de Valores
 
 | Case Type | Exemplos |
 | --- | ----------- |
